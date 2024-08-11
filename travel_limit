@@ -21,6 +21,4 @@ def num_countries_in_days1(max_days, factor):
         time_in_country *= factor
     return count
 
-
-
 print(num_countries_in_days1(10, 1.2))
